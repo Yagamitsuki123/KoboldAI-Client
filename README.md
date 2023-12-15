@@ -4,15 +4,15 @@ This is a browser-based front-end for AI-assisted writing with multiple local & 
 
 ## Multiple ways to play
 
-Stories can be played like a Novel, a text adventure game or used as a chatbot with an easy toggles to change between the multiple gameplay styles. This makes KoboldAI both a writing assistant, a game and a platform for so much more. The way you play and how good the AI will be depends on the model or service you decide to use. No matter if you want to use the free, fast power of Google Colab, your own high end graphics card, an online service you have an API key for (Like OpenAI or Inferkit) or if you rather just run it slower on your CPU you will be able to find a way to use KoboldAI that works for you.
+ NSFW Stories can be played like a Novel, a text adventure game or used as a chatbot with an easy toggles to change between the multiple gameplay styles. This makes KoboldAI both a writing assistant, a game and a platform for so much more. The way you play and how good the AI will be depends on the model or service you decide to use. No matter if you want to use the free, fast power of Google Colab, your own high end graphics card, an online service you have an API key for (Like OpenAI or Inferkit) or if you rather just run it slower on your CPU you will be able to find a way to use KoboldAI that works for you.
 
-### Adventure mode
+### freedom mode
 
 By default KoboldAI will run in a generic mode optimized for writing, but with the right model you can play this like AI Dungeon without any issues. You can enable this in the settings and bring your own prompt, try generating a random prompt or download one of the prompts available at [/aids/ Prompts](https://aetherroom.club/).
 
 The gameplay will be slightly different than the gameplay in AI Dungeon because we adopted the Type of the Unleashed fork, giving you full control over all the characters because we do not automatically adapt your sentences behind the scenes. This means you can more reliably control characters that are not you.
 
-As a result of this what you need to type is slightly different, in AI Dungeon you would type _**take the sword**_ while in KoboldAI you would type it like a sentence such as _**You take the sword**_ and this is best done with the word You instead of I.
+
 
 To speak simply type : _You say "We should probably gather some supplies first"_  
 Just typing the quote might work, but the AI is at its best when you specify who does what in your commands.
